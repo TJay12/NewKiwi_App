@@ -1,0 +1,9 @@
+2025-05-16 19:30:34,112 - INFO - students dictionary cleared
+2025-05-16 19:30:34,113 - INFO - File loaded successfully: testfile.txt
+2025-05-16 19:30:34,113 - INFO - Imported 3 students
+2025-05-16 19:30:34,113 - INFO - Successfully calculated final scores for 3 students
+2025-05-16 19:30:34,113 - INFO - Grades assigned successfully for 3 students
+2025-05-16 19:30:34,113 - INFO - Grade totals counted: A=0, B=1, C=1, D=0, F=1
+2025-05-16 19:30:34,113 - INFO - Report printed without errors
+2025-05-16 19:32:46,277 - INFO - students dictionary cleared
+2025-05-16 19:32:46,277 - WARNING - File not found: nofile.txt
